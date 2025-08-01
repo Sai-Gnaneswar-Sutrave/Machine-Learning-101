@@ -1,0 +1,892 @@
+Cabin,Ticket,number,Survived,number_numerical,number_categorical,Cabin_numerical,Cabin_categorical,Ticket_numerical,Ticket_categorical
+,A/5 21171,5,0,5.0,missing,0.0,missing,21171.0,A/5
+C85,PC 17599,3,1,3.0,missing,85,C,17599.0,PC
+,STON/O2. 3101282,6,1,6.0,missing,0.0,missing,3101282.0,STON/O2.
+C123,113803,3,1,3.0,missing,123,C,113803.0,missing
+,373450,A,0,0.0,A,0.0,missing,373450.0,missing
+,330877,2,0,2.0,missing,0.0,missing,330877.0,missing
+E46,17463,2,0,2.0,missing,46,E,17463.0,missing
+,349909,5,0,5.0,missing,0.0,missing,349909.0,missing
+,347742,1,1,1.0,missing,0.0,missing,347742.0,missing
+,237736,A,1,0.0,A,0.0,missing,237736.0,missing
+G6,PP 9549,1,1,1.0,missing,6,G,9549.0,PP
+C103,113783,1,1,1.0,missing,103,C,113783.0,missing
+,A/5. 2151,3,0,3.0,missing,0.0,missing,2151.0,A/5.
+,347082,3,0,3.0,missing,0.0,missing,347082.0,missing
+,350406,5,0,5.0,missing,0.0,missing,350406.0,missing
+,248706,3,1,3.0,missing,0.0,missing,248706.0,missing
+,382652,3,0,3.0,missing,0.0,missing,382652.0,missing
+,244373,2,1,2.0,missing,0.0,missing,244373.0,missing
+,345763,5,0,5.0,missing,0.0,missing,345763.0,missing
+,2649,4,1,4.0,missing,0.0,missing,2649.0,missing
+,239865,1,0,1.0,missing,0.0,missing,239865.0,missing
+D56,248698,4,1,4.0,missing,56,D,248698.0,missing
+,330923,A,1,0.0,A,0.0,missing,330923.0,missing
+A6,113788,4,1,4.0,missing,6,A,113788.0,missing
+,349909,5,0,5.0,missing,0.0,missing,349909.0,missing
+,347077,3,1,3.0,missing,0.0,missing,347077.0,missing
+,2631,6,0,6.0,missing,0.0,missing,2631.0,missing
+C23 C25 C27,19950,4,0,4.0,missing,23,C,19950.0,missing
+,330959,2,1,2.0,missing,0.0,missing,330959.0,missing
+,349216,6,0,6.0,missing,0.0,missing,349216.0,missing
+,PC 17601,2,0,2.0,missing,0.0,missing,17601.0,PC
+B78,PC 17569,A,1,0.0,A,78,B,17569.0,PC
+,335677,6,1,6.0,missing,0.0,missing,335677.0,missing
+,C.A. 24579,2,0,2.0,missing,0.0,missing,24579.0,C.A.
+,PC 17604,2,0,2.0,missing,0.0,missing,17604.0,PC
+,113789,2,0,2.0,missing,0.0,missing,113789.0,missing
+,2677,4,1,4.0,missing,0.0,missing,2677.0,missing
+,A./5. 2152,6,0,6.0,missing,0.0,missing,2152.0,A./5.
+,345764,1,0,1.0,missing,0.0,missing,345764.0,missing
+,2651,6,1,6.0,missing,0.0,missing,2651.0,missing
+,7546,1,0,1.0,missing,0.0,missing,7546.0,missing
+,11668,3,0,3.0,missing,0.0,missing,11668.0,missing
+,349253,3,0,3.0,missing,0.0,missing,349253.0,missing
+,SC/Paris 2123,A,1,0.0,A,0.0,missing,2123.0,SC/Paris
+,330958,A,1,0.0,A,0.0,missing,330958.0,missing
+,S.C./A.4. 23567,1,0,1.0,missing,0.0,missing,23567.0,S.C./A.4.
+,370371,3,0,3.0,missing,0.0,missing,370371.0,missing
+,14311,1,1,1.0,missing,0.0,missing,14311.0,missing
+,2662,6,0,6.0,missing,0.0,missing,2662.0,missing
+,349237,6,0,6.0,missing,0.0,missing,349237.0,missing
+,3101295,1,0,1.0,missing,0.0,missing,3101295.0,missing
+,A/4. 39886,A,0,0.0,A,0.0,missing,39886.0,A/4.
+D33,PC 17572,3,1,3.0,missing,33,D,17572.0,PC
+,2926,4,1,4.0,missing,0.0,missing,2926.0,missing
+B30,113509,3,0,3.0,missing,30,B,113509.0,missing
+C52,19947,6,1,6.0,missing,52,C,19947.0,missing
+,C.A. 31026,4,1,4.0,missing,0.0,missing,31026.0,C.A.
+,2697,A,0,0.0,A,0.0,missing,2697.0,missing
+,C.A. 34651,5,1,5.0,missing,0.0,missing,34651.0,C.A.
+,CA 2144,A,0,0.0,A,0.0,missing,2144.0,CA
+,2669,6,0,6.0,missing,0.0,missing,2669.0,missing
+B28,113572,2,1,2.0,missing,28,B,113572.0,missing
+C83,36973,6,0,6.0,missing,83,C,36973.0,missing
+,347088,1,0,1.0,missing,0.0,missing,347088.0,missing
+,PC 17605,1,0,1.0,missing,0.0,missing,17605.0,PC
+,2661,2,1,2.0,missing,0.0,missing,2661.0,missing
+F33,C.A. 29395,A,1,0.0,A,33,F,29395.0,C.A.
+,S.P. 3464,A,0,0.0,A,0.0,missing,3464.0,S.P.
+,3101281,4,1,4.0,missing,0.0,missing,3101281.0,missing
+,315151,A,0,0.0,A,0.0,missing,315151.0,missing
+,C.A. 33111,1,0,1.0,missing,0.0,missing,33111.0,C.A.
+,CA 2144,6,0,6.0,missing,0.0,missing,2144.0,CA
+,S.O.C. 14879,3,0,3.0,missing,0.0,missing,14879.0,S.O.C.
+,2680,1,0,1.0,missing,0.0,missing,2680.0,missing
+,1601,6,1,6.0,missing,0.0,missing,1601.0,missing
+F G73,348123,1,0,1.0,missing,73,F,348123.0,missing
+,349208,A,0,0.0,A,0.0,missing,349208.0,missing
+,374746,3,0,3.0,missing,0.0,missing,374746.0,missing
+,248738,6,1,6.0,missing,0.0,missing,248738.0,missing
+,364516,A,1,0.0,A,0.0,missing,364516.0,missing
+,345767,6,0,6.0,missing,0.0,missing,345767.0,missing
+,345779,6,1,6.0,missing,0.0,missing,345779.0,missing
+,330932,4,1,4.0,missing,0.0,missing,330932.0,missing
+,113059,6,0,6.0,missing,0.0,missing,113059.0,missing
+,SO/C 14885,6,1,6.0,missing,0.0,missing,14885.0,SO/C
+,3101278,5,1,5.0,missing,0.0,missing,3101278.0,missing
+,W./C. 6608,1,0,1.0,missing,0.0,missing,6608.0,W./C.
+,SOTON/OQ 392086,4,0,4.0,missing,0.0,missing,392086.0,SOTON/OQ
+C23 C25 C27,19950,3,1,3.0,missing,23,C,19950.0,missing
+,343275,6,0,6.0,missing,0.0,missing,343275.0,missing
+,343276,4,0,4.0,missing,0.0,missing,343276.0,missing
+,347466,3,0,3.0,missing,0.0,missing,347466.0,missing
+E31,W.E.P. 5734,6,0,6.0,missing,31,E,5734.0,W.E.P.
+,C.A. 2315,A,0,0.0,A,0.0,missing,2315.0,C.A.
+,364500,1,0,1.0,missing,0.0,missing,364500.0,missing
+,374910,6,0,6.0,missing,0.0,missing,374910.0,missing
+A5,PC 17754,A,0,0.0,A,5,A,17754.0,PC
+D10 D12,PC 17759,3,1,3.0,missing,10,D,17759.0,PC
+,231919,6,1,6.0,missing,0.0,missing,231919.0,missing
+,244367,2,0,2.0,missing,0.0,missing,244367.0,missing
+,349245,5,0,5.0,missing,0.0,missing,349245.0,missing
+,349215,3,0,3.0,missing,0.0,missing,349215.0,missing
+D26,35281,4,0,4.0,missing,26,D,35281.0,missing
+,7540,4,0,4.0,missing,0.0,missing,7540.0,missing
+,3101276,4,0,4.0,missing,0.0,missing,3101276.0,missing
+,349207,A,0,0.0,A,0.0,missing,349207.0,missing
+,343120,3,1,3.0,missing,0.0,missing,343120.0,missing
+,312991,A,1,0.0,A,0.0,missing,312991.0,missing
+,349249,4,0,4.0,missing,0.0,missing,349249.0,missing
+,371110,4,1,4.0,missing,0.0,missing,371110.0,missing
+C110,110465,5,0,5.0,missing,110,C,110465.0,missing
+,2665,6,0,6.0,missing,0.0,missing,2665.0,missing
+,324669,6,0,6.0,missing,0.0,missing,324669.0,missing
+,4136,3,0,3.0,missing,0.0,missing,4136.0,missing
+,2627,3,0,3.0,missing,0.0,missing,2627.0,missing
+,STON/O 2. 3101294,1,0,1.0,missing,0.0,missing,3101294.0,STON/O
+,370369,A,0,0.0,A,0.0,missing,370369.0,missing
+,11668,4,0,4.0,missing,0.0,missing,11668.0,missing
+B58 B60,PC 17558,3,0,3.0,missing,58,B,17558.0,PC
+,347082,1,0,1.0,missing,0.0,missing,347082.0,missing
+,S.O.C. 14879,A,0,0.0,A,0.0,missing,14879.0,S.O.C.
+,A4. 54510,6,0,6.0,missing,0.0,missing,54510.0,A4.
+,237736,A,0,0.0,A,0.0,missing,237736.0,missing
+E101,27267,3,1,3.0,missing,101,E,27267.0,missing
+D26,35281,6,0,6.0,missing,26,D,35281.0,missing
+,2651,4,1,4.0,missing,0.0,missing,2651.0,missing
+,370372,1,0,1.0,missing,0.0,missing,370372.0,missing
+,C 17369,4,1,4.0,missing,0.0,missing,17369.0,C
+F E69,2668,6,1,6.0,missing,69,F,2668.0,missing
+,347061,A,0,0.0,A,0.0,missing,347061.0,missing
+,349241,5,0,5.0,missing,0.0,missing,349241.0,missing
+,SOTON/O.Q. 3101307,2,0,2.0,missing,0.0,missing,3101307.0,SOTON/O.Q.
+,A/5. 3337,2,0,2.0,missing,0.0,missing,3337.0,A/5.
+,228414,5,1,5.0,missing,0.0,missing,228414.0,missing
+,C.A. 29178,A,0,0.0,A,0.0,missing,29178.0,C.A.
+,SC/PARIS 2133,1,0,1.0,missing,0.0,missing,2133.0,SC/PARIS
+D47,11752,5,1,5.0,missing,47,D,11752.0,missing
+C123,113803,6,0,6.0,missing,123,C,113803.0,missing
+,7534,5,0,5.0,missing,0.0,missing,7534.0,missing
+B86,PC 17593,2,0,2.0,missing,86,B,17593.0,PC
+,2678,2,0,2.0,missing,0.0,missing,2678.0,missing
+,347081,1,1,1.0,missing,0.0,missing,347081.0,missing
+,STON/O2. 3101279,5,1,5.0,missing,0.0,missing,3101279.0,STON/O2.
+,365222,6,0,6.0,missing,0.0,missing,365222.0,missing
+,231945,1,0,1.0,missing,0.0,missing,231945.0,missing
+,C.A. 33112,A,0,0.0,A,0.0,missing,33112.0,C.A.
+,350043,3,1,3.0,missing,0.0,missing,350043.0,missing
+,W./C. 6608,5,0,5.0,missing,0.0,missing,6608.0,W./C.
+F2,230080,1,0,1.0,missing,2,F,230080.0,missing
+,244310,2,0,2.0,missing,0.0,missing,244310.0,missing
+,S.O.P. 1166,6,0,6.0,missing,0.0,missing,1166.0,S.O.P.
+C2,113776,A,1,0.0,A,2,C,113776.0,missing
+,A.5. 11206,1,0,1.0,missing,0.0,missing,11206.0,A.5.
+,A/5. 851,4,0,4.0,missing,0.0,missing,851.0,A/5.
+,Fa 265302,A,0,0.0,A,0.0,missing,265302.0,Fa
+,PC 17597,1,0,1.0,missing,0.0,missing,17597.0,PC
+,35851,1,1,1.0,missing,0.0,missing,35851.0,missing
+,SOTON/OQ 392090,1,0,1.0,missing,0.0,missing,392090.0,SOTON/OQ
+,315037,6,0,6.0,missing,0.0,missing,315037.0,missing
+,CA. 2343,3,0,3.0,missing,0.0,missing,2343.0,CA.
+,371362,3,0,3.0,missing,0.0,missing,371362.0,missing
+,C.A. 33595,A,1,0.0,A,0.0,missing,33595.0,C.A.
+,347068,A,0,0.0,A,0.0,missing,347068.0,missing
+,315093,6,0,6.0,missing,0.0,missing,315093.0,missing
+,3101295,4,0,4.0,missing,0.0,missing,3101295.0,missing
+,363291,2,1,2.0,missing,0.0,missing,363291.0,missing
+E33,113505,A,1,0.0,A,33,E,113505.0,missing
+,347088,4,0,4.0,missing,0.0,missing,347088.0,missing
+,PC 17318,3,0,3.0,missing,0.0,missing,17318.0,PC
+,1601,A,0,0.0,A,0.0,missing,1601.0,missing
+B19,111240,6,0,6.0,missing,19,B,111240.0,missing
+,382652,1,0,1.0,missing,0.0,missing,382652.0,missing
+,347742,1,1,1.0,missing,0.0,missing,347742.0,missing
+,STON/O 2. 3101280,A,0,0.0,A,0.0,missing,3101280.0,STON/O
+A7,17764,1,0,1.0,missing,7,A,17764.0,missing
+,350404,A,0,0.0,A,0.0,missing,350404.0,missing
+,4133,4,0,4.0,missing,0.0,missing,4133.0,missing
+C49,PC 17595,6,0,6.0,missing,49,C,17595.0,PC
+,250653,6,0,6.0,missing,0.0,missing,250653.0,missing
+,LINE,1,0,1.0,missing,0.0,missing,0.0,LINE
+,CA. 2343,5,0,5.0,missing,0.0,missing,2343.0,CA.
+,SC/PARIS 2131,6,0,6.0,missing,0.0,missing,2131.0,SC/PARIS
+,347077,5,0,5.0,missing,0.0,missing,347077.0,missing
+F4,230136,5,1,5.0,missing,4,F,230136.0,missing
+,315153,3,1,3.0,missing,0.0,missing,315153.0,missing
+A32,113767,3,0,3.0,missing,32,A,113767.0,missing
+,370365,6,1,6.0,missing,0.0,missing,370365.0,missing
+,111428,2,1,2.0,missing,0.0,missing,111428.0,missing
+,364849,3,0,3.0,missing,0.0,missing,364849.0,missing
+,349247,6,0,6.0,missing,0.0,missing,349247.0,missing
+,234604,A,1,0.0,A,0.0,missing,234604.0,missing
+,28424,3,0,3.0,missing,0.0,missing,28424.0,missing
+,350046,A,1,0.0,A,0.0,missing,350046.0,missing
+F2,230080,6,1,6.0,missing,2,F,230080.0,missing
+B4,PC 17610,6,1,6.0,missing,4,B,17610.0,PC
+B80,PC 17569,3,1,3.0,missing,80,B,17569.0,PC
+,368703,2,0,2.0,missing,0.0,missing,368703.0,missing
+,4579,6,0,6.0,missing,0.0,missing,4579.0,missing
+,370370,5,1,5.0,missing,0.0,missing,370370.0,missing
+,248747,1,0,1.0,missing,0.0,missing,248747.0,missing
+,345770,2,0,2.0,missing,0.0,missing,345770.0,missing
+,CA. 2343,2,0,2.0,missing,0.0,missing,2343.0,CA.
+,3101264,2,0,2.0,missing,0.0,missing,3101264.0,missing
+,2628,A,0,0.0,A,0.0,missing,2628.0,missing
+,A/5 3540,6,1,6.0,missing,0.0,missing,3540.0,A/5
+G6,347054,A,0,0.0,A,6,G,347054.0,missing
+,3101278,3,0,3.0,missing,0.0,missing,3101278.0,missing
+,2699,5,1,5.0,missing,0.0,missing,2699.0,missing
+,367231,6,1,6.0,missing,0.0,missing,367231.0,missing
+A31,112277,6,1,6.0,missing,31,A,112277.0,missing
+,SOTON/O.Q. 3101311,A,0,0.0,A,0.0,missing,3101311.0,SOTON/O.Q.
+,F.C.C. 13528,3,1,3.0,missing,0.0,missing,13528.0,F.C.C.
+,A/5 21174,A,0,0.0,A,0.0,missing,21174.0,A/5
+,250646,1,0,1.0,missing,0.0,missing,250646.0,missing
+,367229,2,0,2.0,missing,0.0,missing,367229.0,missing
+D36,35273,A,1,0.0,A,36,D,35273.0,missing
+,STON/O2. 3101283,4,1,4.0,missing,0.0,missing,3101283.0,STON/O2.
+,243847,A,0,0.0,A,0.0,missing,243847.0,missing
+D15,11813,A,1,0.0,A,15,D,11813.0,missing
+,W/C 14208,4,0,4.0,missing,0.0,missing,14208.0,W/C
+,SOTON/OQ 392089,5,1,5.0,missing,0.0,missing,392089.0,SOTON/OQ
+,220367,4,0,4.0,missing,0.0,missing,220367.0,missing
+,21440,A,0,0.0,A,0.0,missing,21440.0,missing
+,349234,A,0,0.0,A,0.0,missing,349234.0,missing
+C93,19943,1,1,1.0,missing,93,C,19943.0,missing
+,PP 4348,6,0,6.0,missing,0.0,missing,4348.0,PP
+,SW/PP 751,3,1,3.0,missing,0.0,missing,751.0,SW/PP
+,A/5 21173,6,0,6.0,missing,0.0,missing,21173.0,A/5
+,236171,5,0,5.0,missing,0.0,missing,236171.0,missing
+,4133,3,0,3.0,missing,0.0,missing,4133.0,missing
+C83,36973,3,1,3.0,missing,83,C,36973.0,missing
+,347067,2,0,2.0,missing,0.0,missing,347067.0,missing
+,237442,6,0,6.0,missing,0.0,missing,237442.0,missing
+,347077,4,1,4.0,missing,0.0,missing,347077.0,missing
+,C.A. 29566,6,0,6.0,missing,0.0,missing,29566.0,C.A.
+,W./C. 6609,4,0,4.0,missing,0.0,missing,6609.0,W./C.
+,26707,3,0,3.0,missing,0.0,missing,26707.0,missing
+,C.A. 31921,1,1,1.0,missing,0.0,missing,31921.0,C.A.
+,28665,A,0,0.0,A,0.0,missing,28665.0,missing
+,SCO/W 1585,A,0,0.0,A,0.0,missing,1585.0,SCO/W
+,2665,1,0,1.0,missing,0.0,missing,2665.0,missing
+,367230,1,1,1.0,missing,0.0,missing,367230.0,missing
+,W./C. 14263,5,0,5.0,missing,0.0,missing,14263.0,W./C.
+,STON/O 2. 3101275,A,0,0.0,A,0.0,missing,3101275.0,STON/O
+,2694,1,0,1.0,missing,0.0,missing,2694.0,missing
+C78,19928,5,0,5.0,missing,78,C,19928.0,missing
+,347071,A,0,0.0,A,0.0,missing,347071.0,missing
+,250649,2,1,2.0,missing,0.0,missing,250649.0,missing
+D35,11751,4,1,4.0,missing,35,D,11751.0,missing
+,244252,5,0,5.0,missing,0.0,missing,244252.0,missing
+,362316,4,0,4.0,missing,0.0,missing,362316.0,missing
+G6,347054,6,0,6.0,missing,6,G,347054.0,missing
+C87,113514,1,0,1.0,missing,87,C,113514.0,missing
+,A/5. 3336,3,0,3.0,missing,0.0,missing,3336.0,A/5.
+,370129,A,0,0.0,A,0.0,missing,370129.0,missing
+,2650,3,1,3.0,missing,0.0,missing,2650.0,missing
+,PC 17585,6,1,6.0,missing,0.0,missing,17585.0,PC
+B77,110152,4,1,4.0,missing,77,B,110152.0,missing
+,PC 17755,5,1,5.0,missing,0.0,missing,17755.0,PC
+,230433,4,1,4.0,missing,0.0,missing,230433.0,missing
+,384461,A,0,0.0,A,0.0,missing,384461.0,missing
+,347077,6,1,6.0,missing,0.0,missing,347077.0,missing
+E67,110413,4,0,4.0,missing,67,E,110413.0,missing
+B94,112059,6,0,6.0,missing,94,B,112059.0,missing
+,382649,2,0,2.0,missing,0.0,missing,382649.0,missing
+,C.A. 17248,3,0,3.0,missing,0.0,missing,17248.0,C.A.
+,3101295,6,0,6.0,missing,0.0,missing,3101295.0,missing
+,347083,4,1,4.0,missing,0.0,missing,347083.0,missing
+C125,PC 17582,3,1,3.0,missing,125,C,17582.0,PC
+C99,PC 17760,3,1,3.0,missing,99,C,17760.0,PC
+,113798,5,0,5.0,missing,0.0,missing,113798.0,missing
+,LINE,3,1,3.0,missing,0.0,missing,0.0,LINE
+,250644,1,1,1.0,missing,0.0,missing,250644.0,missing
+C118,PC 17596,A,0,0.0,A,118,C,17596.0,PC
+,370375,2,1,2.0,missing,0.0,missing,370375.0,missing
+D7,13502,2,1,2.0,missing,7,D,13502.0,missing
+,347073,1,0,1.0,missing,0.0,missing,347073.0,missing
+,239853,4,0,4.0,missing,0.0,missing,239853.0,missing
+,382652,2,0,2.0,missing,0.0,missing,382652.0,missing
+,C.A. 2673,2,1,2.0,missing,0.0,missing,2673.0,C.A.
+,336439,4,0,4.0,missing,0.0,missing,336439.0,missing
+,347464,A,0,0.0,A,0.0,missing,347464.0,missing
+,345778,2,0,2.0,missing,0.0,missing,345778.0,missing
+,A/5. 10482,5,1,5.0,missing,0.0,missing,10482.0,A/5.
+A19,113056,5,0,5.0,missing,19,A,113056.0,missing
+,349239,4,0,4.0,missing,0.0,missing,349239.0,missing
+,345774,4,1,4.0,missing,0.0,missing,345774.0,missing
+,349206,5,0,5.0,missing,0.0,missing,349206.0,missing
+,237798,A,1,0.0,A,0.0,missing,237798.0,missing
+,370373,2,1,2.0,missing,0.0,missing,370373.0,missing
+,19877,3,1,3.0,missing,0.0,missing,19877.0,missing
+B49,11967,4,1,4.0,missing,49,B,11967.0,missing
+D,SC/Paris 2163,4,0,4.0,missing,0.0,D,2163.0,SC/Paris
+,349236,6,0,6.0,missing,0.0,missing,349236.0,missing
+,349233,5,0,5.0,missing,0.0,missing,349233.0,missing
+,PC 17612,A,0,0.0,A,0.0,missing,17612.0,PC
+,2693,4,0,4.0,missing,0.0,missing,2693.0,missing
+C22 C26,113781,5,0,5.0,missing,22,C,113781.0,missing
+C106,19988,3,1,3.0,missing,106,C,19988.0,missing
+B58 B60,PC 17558,1,1,1.0,missing,58,B,17558.0,PC
+,9234,A,1,0.0,A,0.0,missing,9234.0,missing
+,367226,1,1,1.0,missing,0.0,missing,367226.0,missing
+,LINE,2,0,2.0,missing,0.0,missing,0.0,LINE
+E101,226593,5,1,5.0,missing,101,E,226593.0,missing
+,A/5 2466,3,0,3.0,missing,0.0,missing,2466.0,A/5
+C22 C26,113781,6,1,6.0,missing,22,C,113781.0,missing
+,17421,4,1,4.0,missing,0.0,missing,17421.0,missing
+C65,PC 17758,2,1,2.0,missing,65,C,17758.0,PC
+,P/PP 3381,3,0,3.0,missing,0.0,missing,3381.0,P/PP
+E36,PC 17485,3,1,3.0,missing,36,E,17485.0,PC
+C54,11767,2,1,2.0,missing,54,C,11767.0,missing
+B57 B59 B63 B66,PC 17608,1,1,1.0,missing,57,B,17608.0,PC
+,250651,5,0,5.0,missing,0.0,missing,250651.0,missing
+,349243,2,0,2.0,missing,0.0,missing,349243.0,missing
+,F.C.C. 13529,1,0,1.0,missing,0.0,missing,13529.0,F.C.C.
+,347470,5,1,5.0,missing,0.0,missing,347470.0,missing
+,244367,6,1,6.0,missing,0.0,missing,244367.0,missing
+,29011,4,0,4.0,missing,0.0,missing,29011.0,missing
+C7,36928,A,1,0.0,A,7,C,36928.0,missing
+E34,16966,1,1,1.0,missing,34,E,16966.0,missing
+,A/5 21172,2,0,2.0,missing,0.0,missing,21172.0,A/5
+,349219,6,0,6.0,missing,0.0,missing,349219.0,missing
+,234818,1,1,1.0,missing,0.0,missing,234818.0,missing
+,248738,5,1,5.0,missing,0.0,missing,248738.0,missing
+,CA. 2343,1,0,1.0,missing,0.0,missing,2343.0,CA.
+C32,PC 17760,6,1,6.0,missing,32,C,17760.0,PC
+,345364,4,0,4.0,missing,0.0,missing,345364.0,missing
+D,28551,5,1,5.0,missing,0.0,D,28551.0,missing
+,363291,2,1,2.0,missing,0.0,missing,363291.0,missing
+B18,111361,5,1,5.0,missing,18,B,111361.0,missing
+,367226,5,1,5.0,missing,0.0,missing,367226.0,missing
+C124,113043,6,0,6.0,missing,124,C,113043.0,missing
+C91,PC 17582,1,0,1.0,missing,91,C,17582.0,PC
+,345764,1,0,1.0,missing,0.0,missing,345764.0,missing
+,PC 17611,4,1,4.0,missing,0.0,missing,17611.0,PC
+,349225,6,0,6.0,missing,0.0,missing,349225.0,missing
+C2,113776,A,0,0.0,A,2,C,113776.0,missing
+E40,16966,1,1,1.0,missing,40,E,16966.0,missing
+,7598,3,1,3.0,missing,0.0,missing,7598.0,missing
+T,113784,4,0,4.0,missing,0.0,T,113784.0,missing
+F2,230080,A,1,0.0,A,2,F,230080.0,missing
+C23 C25 C27,19950,5,1,5.0,missing,23,C,19950.0,missing
+,248740,A,0,0.0,A,0.0,missing,248740.0,missing
+,244361,2,0,2.0,missing,0.0,missing,244361.0,missing
+,229236,2,0,2.0,missing,0.0,missing,229236.0,missing
+F33,248733,A,1,0.0,A,33,F,248733.0,missing
+,31418,6,1,6.0,missing,0.0,missing,31418.0,missing
+,386525,2,1,2.0,missing,0.0,missing,386525.0,missing
+,C.A. 37671,2,1,2.0,missing,0.0,missing,37671.0,C.A.
+,315088,A,0,0.0,A,0.0,missing,315088.0,missing
+,7267,3,0,3.0,missing,0.0,missing,7267.0,missing
+C128,113510,4,0,4.0,missing,128,C,113510.0,missing
+,2695,5,0,5.0,missing,0.0,missing,2695.0,missing
+,349237,5,0,5.0,missing,0.0,missing,349237.0,missing
+,2647,5,0,5.0,missing,0.0,missing,2647.0,missing
+,345783,4,0,4.0,missing,0.0,missing,345783.0,missing
+E33,113505,1,1,1.0,missing,33,E,113505.0,missing
+,237671,6,0,6.0,missing,0.0,missing,237671.0,missing
+,330931,2,1,2.0,missing,0.0,missing,330931.0,missing
+,330980,6,1,6.0,missing,0.0,missing,330980.0,missing
+,347088,3,0,3.0,missing,0.0,missing,347088.0,missing
+,SC/PARIS 2167,A,0,0.0,A,0.0,missing,2167.0,SC/PARIS
+,2691,6,0,6.0,missing,0.0,missing,2691.0,missing
+,SOTON/O.Q. 3101310,3,0,3.0,missing,0.0,missing,3101310.0,SOTON/O.Q.
+,370365,2,0,2.0,missing,0.0,missing,370365.0,missing
+,C 7076,3,0,3.0,missing,0.0,missing,7076.0,C
+D37,110813,5,1,5.0,missing,37,D,110813.0,missing
+,2626,3,1,3.0,missing,0.0,missing,2626.0,missing
+,14313,3,1,3.0,missing,0.0,missing,14313.0,missing
+B35,PC 17477,2,1,2.0,missing,35,B,17477.0,PC
+E50,11765,5,1,5.0,missing,50,E,11765.0,missing
+,3101267,2,0,2.0,missing,0.0,missing,3101267.0,missing
+,323951,3,0,3.0,missing,0.0,missing,323951.0,missing
+,PC 17760,A,0,0.0,A,0.0,missing,17760.0,PC
+,349909,1,0,1.0,missing,0.0,missing,349909.0,missing
+,PC 17604,1,1,1.0,missing,0.0,missing,17604.0,PC
+,C 7077,2,1,2.0,missing,0.0,missing,7077.0,C
+C82,113503,2,0,2.0,missing,82,C,113503.0,missing
+,2648,2,0,2.0,missing,0.0,missing,2648.0,missing
+,347069,5,0,5.0,missing,0.0,missing,347069.0,missing
+,PC 17757,5,1,5.0,missing,0.0,missing,17757.0,PC
+,2653,3,1,3.0,missing,0.0,missing,2653.0,missing
+,STON/O 2. 3101293,1,0,1.0,missing,0.0,missing,3101293.0,STON/O
+,113789,4,1,4.0,missing,0.0,missing,113789.0,missing
+,349227,3,0,3.0,missing,0.0,missing,349227.0,missing
+,S.O.C. 14879,4,0,4.0,missing,0.0,missing,14879.0,S.O.C.
+,CA 2144,6,0,6.0,missing,0.0,missing,2144.0,CA
+,27849,4,1,4.0,missing,0.0,missing,27849.0,missing
+,367655,6,0,6.0,missing,0.0,missing,367655.0,missing
+,SC 1748,5,1,5.0,missing,0.0,missing,1748.0,SC
+B96 B98,113760,4,1,4.0,missing,96,B,113760.0,missing
+,350034,6,1,6.0,missing,0.0,missing,350034.0,missing
+,3101277,1,0,1.0,missing,0.0,missing,3101277.0,missing
+D36,35273,1,1,1.0,missing,36,D,35273.0,missing
+G6,PP 9549,6,1,6.0,missing,6,G,9549.0,PP
+,350052,3,0,3.0,missing,0.0,missing,350052.0,missing
+,350407,2,0,2.0,missing,0.0,missing,350407.0,missing
+,28403,2,0,2.0,missing,0.0,missing,28403.0,missing
+,244278,5,0,5.0,missing,0.0,missing,244278.0,missing
+,240929,1,1,1.0,missing,0.0,missing,240929.0,missing
+,STON/O 2. 3101289,3,1,3.0,missing,0.0,missing,3101289.0,STON/O
+,341826,2,0,2.0,missing,0.0,missing,341826.0,missing
+,4137,3,0,3.0,missing,0.0,missing,4137.0,missing
+,STON/O2. 3101279,3,0,3.0,missing,0.0,missing,3101279.0,STON/O2.
+,315096,A,0,0.0,A,0.0,missing,315096.0,missing
+,28664,2,0,2.0,missing,0.0,missing,28664.0,missing
+,347064,4,0,4.0,missing,0.0,missing,347064.0,missing
+,29106,A,1,0.0,A,0.0,missing,29106.0,missing
+,312992,A,0,0.0,A,0.0,missing,312992.0,missing
+,4133,5,0,5.0,missing,0.0,missing,4133.0,missing
+,349222,A,0,0.0,A,0.0,missing,349222.0,missing
+,394140,1,0,1.0,missing,0.0,missing,394140.0,missing
+C78,19928,2,1,2.0,missing,78,C,19928.0,missing
+,239853,5,0,5.0,missing,0.0,missing,239853.0,missing
+,STON/O 2. 3101269,6,1,6.0,missing,0.0,missing,3101269.0,STON/O
+,343095,A,0,0.0,A,0.0,missing,343095.0,missing
+,28220,6,1,6.0,missing,0.0,missing,28220.0,missing
+,250652,4,1,4.0,missing,0.0,missing,250652.0,missing
+,28228,1,0,1.0,missing,0.0,missing,28228.0,missing
+,345773,3,0,3.0,missing,0.0,missing,345773.0,missing
+,349254,4,0,4.0,missing,0.0,missing,349254.0,missing
+,A/5. 13032,3,0,3.0,missing,0.0,missing,13032.0,A/5.
+,315082,2,0,2.0,missing,0.0,missing,315082.0,missing
+,347080,2,0,2.0,missing,0.0,missing,347080.0,missing
+,370129,4,0,4.0,missing,0.0,missing,370129.0,missing
+,A/4. 34244,2,0,2.0,missing,0.0,missing,34244.0,A/4.
+,2003,1,1,1.0,missing,0.0,missing,2003.0,missing
+,250655,2,1,2.0,missing,0.0,missing,250655.0,missing
+,364851,2,0,2.0,missing,0.0,missing,364851.0,missing
+E10,SOTON/O.Q. 392078,6,1,6.0,missing,10,E,392078.0,SOTON/O.Q.
+C52,110564,A,1,0.0,A,52,C,110564.0,missing
+,376564,4,1,4.0,missing,0.0,missing,376564.0,missing
+,SC/AH 3085,4,1,4.0,missing,0.0,missing,3085.0,SC/AH
+,STON/O 2. 3101274,6,0,6.0,missing,0.0,missing,3101274.0,STON/O
+E44,13507,3,0,3.0,missing,44,E,13507.0,missing
+B96 B98,113760,1,1,1.0,missing,96,B,113760.0,missing
+,W./C. 6608,2,0,2.0,missing,0.0,missing,6608.0,W./C.
+,29106,6,1,6.0,missing,0.0,missing,29106.0,missing
+C23 C25 C27,19950,2,0,2.0,missing,23,C,19950.0,missing
+,C.A. 18723,1,0,1.0,missing,0.0,missing,18723.0,C.A.
+,F.C.C. 13529,4,1,4.0,missing,0.0,missing,13529.0,F.C.C.
+,345769,5,0,5.0,missing,0.0,missing,345769.0,missing
+,347076,6,0,6.0,missing,0.0,missing,347076.0,missing
+,230434,2,1,2.0,missing,0.0,missing,230434.0,missing
+,65306,1,1,1.0,missing,0.0,missing,65306.0,missing
+A34,33638,3,1,3.0,missing,34,A,33638.0,missing
+,250644,5,1,5.0,missing,0.0,missing,250644.0,missing
+,113794,2,1,2.0,missing,0.0,missing,113794.0,missing
+,2666,1,1,1.0,missing,0.0,missing,2666.0,missing
+C104,113786,4,1,4.0,missing,104,C,113786.0,missing
+,C.A. 34651,A,0,0.0,A,0.0,missing,34651.0,C.A.
+,65303,4,0,4.0,missing,0.0,missing,65303.0,missing
+C111,113051,2,0,2.0,missing,111,C,113051.0,missing
+C92,17453,5,1,5.0,missing,92,C,17453.0,missing
+,A/5 2817,6,0,6.0,missing,0.0,missing,2817.0,A/5
+,349240,5,1,5.0,missing,0.0,missing,349240.0,missing
+E38,13509,6,0,6.0,missing,38,E,13509.0,missing
+D21,17464,1,1,1.0,missing,21,D,17464.0,missing
+,F.C.C. 13531,A,1,0.0,A,0.0,missing,13531.0,F.C.C.
+,371060,3,0,3.0,missing,0.0,missing,371060.0,missing
+E12,19952,A,1,0.0,A,12,E,19952.0,missing
+,364506,2,0,2.0,missing,0.0,missing,364506.0,missing
+E63,111320,4,0,4.0,missing,63,E,111320.0,missing
+,234360,5,0,5.0,missing,0.0,missing,234360.0,missing
+,A/S 2816,6,0,6.0,missing,0.0,missing,2816.0,A/S
+,SOTON/O.Q. 3101306,A,0,0.0,A,0.0,missing,3101306.0,SOTON/O.Q.
+,239853,6,0,6.0,missing,0.0,missing,239853.0,missing
+,113792,1,0,1.0,missing,0.0,missing,113792.0,missing
+,36209,2,0,2.0,missing,0.0,missing,36209.0,missing
+,2666,4,1,4.0,missing,0.0,missing,2666.0,missing
+,323592,A,0,0.0,A,0.0,missing,323592.0,missing
+,315089,4,0,4.0,missing,0.0,missing,315089.0,missing
+,C.A. 34651,6,1,6.0,missing,0.0,missing,34651.0,C.A.
+D,SC/AH Basle 541,2,1,2.0,missing,0.0,D,541.0,SC/AH
+,7553,6,0,6.0,missing,0.0,missing,7553.0,missing
+A14,110465,3,0,3.0,missing,14,A,110465.0,missing
+,31027,3,0,3.0,missing,0.0,missing,31027.0,missing
+,3460,4,0,4.0,missing,0.0,missing,3460.0,missing
+,350060,3,0,3.0,missing,0.0,missing,350060.0,missing
+,3101298,5,1,5.0,missing,0.0,missing,3101298.0,missing
+,CA 2144,5,0,5.0,missing,0.0,missing,2144.0,CA
+,239854,A,0,0.0,A,0.0,missing,239854.0,missing
+,A/5 3594,6,0,6.0,missing,0.0,missing,3594.0,A/5
+,4134,4,1,4.0,missing,0.0,missing,4134.0,missing
+B49,11967,A,1,0.0,A,49,B,11967.0,missing
+,4133,A,0,0.0,A,0.0,missing,4133.0,missing
+C93,19943,3,1,3.0,missing,93,C,19943.0,missing
+B37,11771,2,0,2.0,missing,37,B,11771.0,missing
+,A.5. 18509,2,0,2.0,missing,0.0,missing,18509.0,A.5.
+,C.A. 37671,1,1,1.0,missing,0.0,missing,37671.0,C.A.
+,65304,2,0,2.0,missing,0.0,missing,65304.0,missing
+,SOTON/OQ 3101317,6,0,6.0,missing,0.0,missing,3101317.0,SOTON/OQ
+C30,113787,5,0,5.0,missing,30,C,113787.0,missing
+,PC 17609,1,0,1.0,missing,0.0,missing,17609.0,PC
+,A/4 45380,2,0,2.0,missing,0.0,missing,45380.0,A/4
+,2627,4,0,4.0,missing,0.0,missing,2627.0,missing
+D20,36947,A,1,0.0,A,20,D,36947.0,missing
+,C.A. 6212,A,0,0.0,A,0.0,missing,6212.0,C.A.
+C22 C26,113781,A,0,0.0,A,22,C,113781.0,missing
+,350035,1,0,1.0,missing,0.0,missing,350035.0,missing
+,315086,4,0,4.0,missing,0.0,missing,315086.0,missing
+,364846,5,0,5.0,missing,0.0,missing,364846.0,missing
+,330909,6,0,6.0,missing,0.0,missing,330909.0,missing
+,4135,2,0,2.0,missing,0.0,missing,4135.0,missing
+B79,110152,6,1,6.0,missing,79,B,110152.0,missing
+C65,PC 17758,4,0,4.0,missing,65,C,17758.0,PC
+,26360,1,1,1.0,missing,0.0,missing,26360.0,missing
+,111427,A,1,0.0,A,0.0,missing,111427.0,missing
+,C 4001,5,0,5.0,missing,0.0,missing,4001.0,C
+,1601,1,1,1.0,missing,0.0,missing,1601.0,missing
+,382651,5,1,5.0,missing,0.0,missing,382651.0,missing
+,SOTON/OQ 3101316,4,0,4.0,missing,0.0,missing,3101316.0,SOTON/OQ
+E25,PC 17473,2,1,2.0,missing,25,E,17473.0,PC
+,PC 17603,2,1,2.0,missing,0.0,missing,17603.0,PC
+,349209,3,0,3.0,missing,0.0,missing,349209.0,missing
+D46,36967,3,0,3.0,missing,46,D,36967.0,missing
+F33,C.A. 34260,1,1,1.0,missing,33,F,34260.0,C.A.
+,371110,4,0,4.0,missing,0.0,missing,371110.0,missing
+,226875,3,1,3.0,missing,0.0,missing,226875.0,missing
+,349242,1,0,1.0,missing,0.0,missing,349242.0,missing
+B73,12749,2,1,2.0,missing,73,B,12749.0,missing
+,349252,5,0,5.0,missing,0.0,missing,349252.0,missing
+,2624,2,0,2.0,missing,0.0,missing,2624.0,missing
+B18,111361,A,1,0.0,A,18,B,111361.0,missing
+,2700,6,0,6.0,missing,0.0,missing,2700.0,missing
+,367232,3,0,3.0,missing,0.0,missing,367232.0,missing
+,W./C. 14258,2,1,2.0,missing,0.0,missing,14258.0,W./C.
+C95,PC 17483,2,0,2.0,missing,95,C,17483.0,PC
+,3101296,4,0,4.0,missing,0.0,missing,3101296.0,missing
+,29104,A,0,0.0,A,0.0,missing,29104.0,missing
+,26360,6,1,6.0,missing,0.0,missing,26360.0,missing
+,2641,A,0,0.0,A,0.0,missing,2641.0,missing
+,2690,5,0,5.0,missing,0.0,missing,2690.0,missing
+,2668,4,1,4.0,missing,0.0,missing,2668.0,missing
+,315084,6,0,6.0,missing,0.0,missing,315084.0,missing
+,F.C.C. 13529,1,1,1.0,missing,0.0,missing,13529.0,F.C.C.
+B38,113050,5,0,5.0,missing,38,B,113050.0,missing
+,PC 17761,1,1,1.0,missing,0.0,missing,17761.0,PC
+,364498,4,0,4.0,missing,0.0,missing,364498.0,missing
+B39,13568,3,1,3.0,missing,39,B,13568.0,missing
+B22,WE/P 5735,2,1,2.0,missing,22,B,5735.0,WE/P
+,347082,4,0,4.0,missing,0.0,missing,347082.0,missing
+,347082,1,0,1.0,missing,0.0,missing,347082.0,missing
+,2908,A,1,0.0,A,0.0,missing,2908.0,missing
+C86,PC 17761,4,0,4.0,missing,86,C,17761.0,PC
+,693,6,0,6.0,missing,0.0,missing,693.0,missing
+,2908,6,1,6.0,missing,0.0,missing,2908.0,missing
+,SC/PARIS 2146,5,1,5.0,missing,0.0,missing,2146.0,SC/PARIS
+,363291,2,0,2.0,missing,0.0,missing,363291.0,missing
+,C.A. 33112,2,1,2.0,missing,0.0,missing,33112.0,C.A.
+C70,17421,2,1,2.0,missing,70,C,17421.0,missing
+,244358,3,0,3.0,missing,0.0,missing,244358.0,missing
+,330979,6,0,6.0,missing,0.0,missing,330979.0,missing
+,2620,1,1,1.0,missing,0.0,missing,2620.0,missing
+,347085,3,1,3.0,missing,0.0,missing,347085.0,missing
+,113807,A,0,0.0,A,0.0,missing,113807.0,missing
+A16,11755,A,1,0.0,A,16,A,11755.0,missing
+,PC 17757,2,0,2.0,missing,0.0,missing,17757.0,PC
+E67,110413,1,1,1.0,missing,67,E,110413.0,missing
+,345572,5,1,5.0,missing,0.0,missing,345572.0,missing
+,372622,5,0,5.0,missing,0.0,missing,372622.0,missing
+,349251,4,0,4.0,missing,0.0,missing,349251.0,missing
+,218629,5,0,5.0,missing,0.0,missing,218629.0,missing
+,SOTON/OQ 392082,A,0,0.0,A,0.0,missing,392082.0,SOTON/OQ
+,SOTON/O.Q. 392087,6,0,6.0,missing,0.0,missing,392087.0,SOTON/O.Q.
+,A/4 48871,3,0,3.0,missing,0.0,missing,48871.0,A/4
+,349205,A,0,0.0,A,0.0,missing,349205.0,missing
+,349909,6,0,6.0,missing,0.0,missing,349909.0,missing
+,2686,4,0,4.0,missing,0.0,missing,2686.0,missing
+,350417,6,1,6.0,missing,0.0,missing,350417.0,missing
+,S.W./PP 752,6,1,6.0,missing,0.0,missing,752.0,S.W./PP
+C101,11769,6,1,6.0,missing,101,C,11769.0,missing
+E25,PC 17474,A,1,0.0,A,25,E,17474.0,PC
+,14312,A,1,0.0,A,0.0,missing,14312.0,missing
+,A/4. 20589,4,0,4.0,missing,0.0,missing,20589.0,A/4.
+,358585,1,0,1.0,missing,0.0,missing,358585.0,missing
+,243880,3,1,3.0,missing,0.0,missing,243880.0,missing
+E44,13507,5,1,5.0,missing,44,E,13507.0,missing
+,2689,5,0,5.0,missing,0.0,missing,2689.0,missing
+,STON/O 2. 3101286,4,1,4.0,missing,0.0,missing,3101286.0,STON/O
+,237789,6,1,6.0,missing,0.0,missing,237789.0,missing
+C68,17421,3,1,3.0,missing,68,C,17421.0,missing
+,28403,4,0,4.0,missing,0.0,missing,28403.0,missing
+A10,13049,3,0,3.0,missing,10,A,13049.0,missing
+,3411,A,0,0.0,A,0.0,missing,3411.0,missing
+E68,110413,3,1,3.0,missing,68,E,110413.0,missing
+,237565,2,0,2.0,missing,0.0,missing,237565.0,missing
+B41,13567,1,1,1.0,missing,41,B,13567.0,missing
+,14973,4,0,4.0,missing,0.0,missing,14973.0,missing
+,A./5. 3235,1,0,1.0,missing,0.0,missing,3235.0,A./5.
+,STON/O 2. 3101273,5,0,5.0,missing,0.0,missing,3101273.0,STON/O
+D20,36947,1,1,1.0,missing,20,D,36947.0,missing
+,A/5 3902,5,0,5.0,missing,0.0,missing,3902.0,A/5
+,364848,1,0,1.0,missing,0.0,missing,364848.0,missing
+,SC/AH 29037,2,0,2.0,missing,0.0,missing,29037.0,SC/AH
+,345773,A,0,0.0,A,0.0,missing,345773.0,missing
+,248727,4,1,4.0,missing,0.0,missing,248727.0,missing
+,LINE,6,0,6.0,missing,0.0,missing,0.0,LINE
+,2664,2,0,2.0,missing,0.0,missing,2664.0,missing
+A20,PC 17485,3,1,3.0,missing,20,A,17485.0,PC
+,243847,A,1,0.0,A,0.0,missing,243847.0,missing
+,349214,4,0,4.0,missing,0.0,missing,349214.0,missing
+,113796,1,0,1.0,missing,0.0,missing,113796.0,missing
+,364511,2,0,2.0,missing,0.0,missing,364511.0,missing
+,111426,4,1,4.0,missing,0.0,missing,111426.0,missing
+,349910,4,0,4.0,missing,0.0,missing,349910.0,missing
+,349246,2,0,2.0,missing,0.0,missing,349246.0,missing
+,113804,A,1,0.0,A,0.0,missing,113804.0,missing
+,SC/Paris 2123,3,1,3.0,missing,0.0,missing,2123.0,SC/Paris
+C125,PC 17582,2,1,2.0,missing,125,C,17582.0,PC
+,347082,4,0,4.0,missing,0.0,missing,347082.0,missing
+,SOTON/O.Q. 3101305,2,0,2.0,missing,0.0,missing,3101305.0,SOTON/O.Q.
+,367230,A,1,0.0,A,0.0,missing,367230.0,missing
+,370377,3,0,3.0,missing,0.0,missing,370377.0,missing
+,364512,6,0,6.0,missing,0.0,missing,364512.0,missing
+,220845,A,1,0.0,A,0.0,missing,220845.0,missing
+,347080,4,0,4.0,missing,0.0,missing,347080.0,missing
+,A/5. 3336,1,0,1.0,missing,0.0,missing,3336.0,A/5.
+F4,230136,4,1,4.0,missing,4,F,230136.0,missing
+,31028,1,0,1.0,missing,0.0,missing,31028.0,missing
+,2659,A,0,0.0,A,0.0,missing,2659.0,missing
+D19,11753,2,1,2.0,missing,19,D,11753.0,missing
+,2653,6,1,6.0,missing,0.0,missing,2653.0,missing
+,350029,A,0,0.0,A,0.0,missing,350029.0,missing
+,54636,A,0,0.0,A,0.0,missing,54636.0,missing
+D50,36963,3,0,3.0,missing,50,D,36963.0,missing
+,219533,1,0,1.0,missing,0.0,missing,219533.0,missing
+D9,13502,5,1,5.0,missing,9,D,13502.0,missing
+,349224,2,0,2.0,missing,0.0,missing,349224.0,missing
+,334912,5,0,5.0,missing,0.0,missing,334912.0,missing
+A23,27042,6,1,6.0,missing,23,A,27042.0,missing
+,347743,4,0,4.0,missing,0.0,missing,347743.0,missing
+B50,13214,5,1,5.0,missing,50,B,13214.0,missing
+,112052,6,0,6.0,missing,0.0,missing,112052.0,missing
+,347088,6,0,6.0,missing,0.0,missing,347088.0,missing
+,237668,A,1,0.0,A,0.0,missing,237668.0,missing
+,STON/O 2. 3101292,A,0,0.0,A,0.0,missing,3101292.0,STON/O
+,C.A. 31921,4,0,4.0,missing,0.0,missing,31921.0,C.A.
+,3101295,6,0,6.0,missing,0.0,missing,3101295.0,missing
+,376564,6,0,6.0,missing,0.0,missing,376564.0,missing
+,350050,5,0,5.0,missing,0.0,missing,350050.0,missing
+B35,PC 17477,2,1,2.0,missing,35,B,17477.0,PC
+,347088,A,0,0.0,A,0.0,missing,347088.0,missing
+,1601,A,1,0.0,A,0.0,missing,1601.0,missing
+,2666,3,1,3.0,missing,0.0,missing,2666.0,missing
+D33,PC 17572,2,1,2.0,missing,33,D,17572.0,PC
+,349231,3,0,3.0,missing,0.0,missing,349231.0,missing
+A26,13213,A,1,0.0,A,26,A,13213.0,missing
+,S.O./P.P. 751,2,0,2.0,missing,0.0,missing,751.0,S.O./P.P.
+,CA. 2314,5,1,5.0,missing,0.0,missing,2314.0,CA.
+,349221,5,0,5.0,missing,0.0,missing,349221.0,missing
+,231919,5,1,5.0,missing,0.0,missing,231919.0,missing
+,8475,1,0,1.0,missing,0.0,missing,8475.0,missing
+,330919,1,1,1.0,missing,0.0,missing,330919.0,missing
+,365226,4,0,4.0,missing,0.0,missing,365226.0,missing
+,S.O.C. 14879,5,0,5.0,missing,0.0,missing,14879.0,S.O.C.
+,349223,2,0,2.0,missing,0.0,missing,349223.0,missing
+,364849,1,0,1.0,missing,0.0,missing,364849.0,missing
+,29751,1,0,1.0,missing,0.0,missing,29751.0,missing
+D48,35273,6,0,6.0,missing,48,D,35273.0,missing
+,PC 17611,4,1,4.0,missing,0.0,missing,17611.0,PC
+,2623,1,0,1.0,missing,0.0,missing,2623.0,missing
+E58,5727,A,0,0.0,A,58,E,5727.0,missing
+,349210,A,0,0.0,A,0.0,missing,349210.0,missing
+,STON/O 2. 3101285,4,1,4.0,missing,0.0,missing,3101285.0,STON/O
+,S.O.C. 14879,5,0,5.0,missing,0.0,missing,14879.0,S.O.C.
+,234686,2,0,2.0,missing,0.0,missing,234686.0,missing
+,312993,2,0,2.0,missing,0.0,missing,312993.0,missing
+,A/5 3536,2,0,2.0,missing,0.0,missing,3536.0,A/5
+C126,19996,4,1,4.0,missing,126,C,19996.0,missing
+,29750,2,1,2.0,missing,0.0,missing,29750.0,missing
+B71,F.C. 12750,5,0,5.0,missing,71,B,12750.0,F.C.
+,C.A. 24580,3,0,3.0,missing,0.0,missing,24580.0,C.A.
+,244270,3,1,3.0,missing,0.0,missing,244270.0,missing
+,239856,5,0,5.0,missing,0.0,missing,239856.0,missing
+,349912,6,0,6.0,missing,0.0,missing,349912.0,missing
+,342826,3,0,3.0,missing,0.0,missing,342826.0,missing
+,4138,3,1,3.0,missing,0.0,missing,4138.0,missing
+,CA 2144,2,0,2.0,missing,0.0,missing,2144.0,CA
+B51 B53 B55,PC 17755,5,1,5.0,missing,51,B,17755.0,PC
+,330935,1,0,1.0,missing,0.0,missing,330935.0,missing
+D49,PC 17572,1,1,1.0,missing,49,D,17572.0,PC
+,6563,4,0,4.0,missing,0.0,missing,6563.0,missing
+,CA 2144,1,0,1.0,missing,0.0,missing,2144.0,CA
+,29750,5,0,5.0,missing,0.0,missing,29750.0,missing
+,SC/Paris 2123,5,0,5.0,missing,0.0,missing,2123.0,SC/Paris
+,3101295,4,0,4.0,missing,0.0,missing,3101295.0,missing
+,349228,1,0,1.0,missing,0.0,missing,349228.0,missing
+,350036,A,0,0.0,A,0.0,missing,350036.0,missing
+B5,24160,6,1,6.0,missing,5,B,24160.0,missing
+B20,17474,A,1,0.0,A,20,B,17474.0,missing
+,349256,3,1,3.0,missing,0.0,missing,349256.0,missing
+,1601,4,1,4.0,missing,0.0,missing,1601.0,missing
+,2672,4,0,4.0,missing,0.0,missing,2672.0,missing
+,113800,1,0,1.0,missing,0.0,missing,113800.0,missing
+,248731,A,0,0.0,A,0.0,missing,248731.0,missing
+,363592,A,0,0.0,A,0.0,missing,363592.0,missing
+,35852,1,1,1.0,missing,0.0,missing,35852.0,missing
+C68,17421,A,0,0.0,A,68,C,17421.0,missing
+F G63,348121,A,0,0.0,A,63,F,348121.0,missing
+C62 C64,PC 17757,4,1,4.0,missing,62,C,17757.0,PC
+E24,PC 17475,5,1,5.0,missing,24,E,17475.0,PC
+,2691,5,0,5.0,missing,0.0,missing,2691.0,missing
+,36864,A,0,0.0,A,0.0,missing,36864.0,missing
+,350025,5,0,5.0,missing,0.0,missing,350025.0,missing
+,250655,6,0,6.0,missing,0.0,missing,250655.0,missing
+,223596,3,1,3.0,missing,0.0,missing,223596.0,missing
+E24,PC 17476,5,1,5.0,missing,24,E,17476.0,PC
+,113781,4,1,4.0,missing,0.0,missing,113781.0,missing
+,2661,3,1,3.0,missing,0.0,missing,2661.0,missing
+C90,PC 17482,5,1,5.0,missing,90,C,17482.0,PC
+C124,113028,1,0,1.0,missing,124,C,113028.0,missing
+C126,19996,A,1,0.0,A,126,C,19996.0,missing
+,7545,6,0,6.0,missing,0.0,missing,7545.0,missing
+,250647,1,0,1.0,missing,0.0,missing,250647.0,missing
+F G73,348124,6,0,6.0,missing,73,F,348124.0,missing
+C45,PC 17757,4,1,4.0,missing,45,C,17757.0,PC
+E101,34218,A,1,0.0,A,101,E,34218.0,missing
+,36568,1,0,1.0,missing,0.0,missing,36568.0,missing
+,347062,4,0,4.0,missing,0.0,missing,347062.0,missing
+,248727,3,1,3.0,missing,0.0,missing,248727.0,missing
+,350048,A,0,0.0,A,0.0,missing,350048.0,missing
+,12233,2,0,2.0,missing,0.0,missing,12233.0,missing
+,250643,1,0,1.0,missing,0.0,missing,250643.0,missing
+E8,113806,2,1,2.0,missing,8,E,113806.0,missing
+,315094,1,0,1.0,missing,0.0,missing,315094.0,missing
+,31027,A,1,0.0,A,0.0,missing,31027.0,missing
+,36866,A,1,0.0,A,0.0,missing,36866.0,missing
+,236853,5,0,5.0,missing,0.0,missing,236853.0,missing
+,STON/O2. 3101271,6,0,6.0,missing,0.0,missing,3101271.0,STON/O2.
+B5,24160,4,1,4.0,missing,5,B,24160.0,missing
+,2699,4,0,4.0,missing,0.0,missing,2699.0,missing
+,239855,2,0,2.0,missing,0.0,missing,239855.0,missing
+,28425,2,0,2.0,missing,0.0,missing,28425.0,missing
+,233639,5,0,5.0,missing,0.0,missing,233639.0,missing
+,54636,6,0,6.0,missing,0.0,missing,54636.0,missing
+,W./C. 6608,3,0,3.0,missing,0.0,missing,6608.0,W./C.
+B101,PC 17755,5,1,5.0,missing,101,B,17755.0,PC
+,349201,1,0,1.0,missing,0.0,missing,349201.0,missing
+,349218,5,0,5.0,missing,0.0,missing,349218.0,missing
+D45,16988,5,1,5.0,missing,45,D,16988.0,missing
+C46,19877,5,0,5.0,missing,46,C,19877.0,missing
+B57 B59 B63 B66,PC 17608,1,1,1.0,missing,57,B,17608.0,PC
+,376566,6,0,6.0,missing,0.0,missing,376566.0,missing
+,STON/O 2. 3101288,5,1,5.0,missing,0.0,missing,3101288.0,STON/O
+B22,WE/P 5735,4,0,4.0,missing,22,B,5735.0,WE/P
+,C.A. 2673,1,0,1.0,missing,0.0,missing,2673.0,C.A.
+,250648,5,1,5.0,missing,0.0,missing,250648.0,missing
+D30,113773,5,0,5.0,missing,30,D,113773.0,missing
+,335097,1,0,1.0,missing,0.0,missing,335097.0,missing
+,29103,4,1,4.0,missing,0.0,missing,29103.0,missing
+E121,392096,5,1,5.0,missing,121,E,392096.0,missing
+,345780,3,0,3.0,missing,0.0,missing,345780.0,missing
+,349204,1,0,1.0,missing,0.0,missing,349204.0,missing
+,220845,A,1,0.0,A,0.0,missing,220845.0,missing
+,250649,5,1,5.0,missing,0.0,missing,250649.0,missing
+,350042,2,0,2.0,missing,0.0,missing,350042.0,missing
+,29108,5,0,5.0,missing,0.0,missing,29108.0,missing
+,363294,A,0,0.0,A,0.0,missing,363294.0,missing
+B77,110152,A,1,0.0,A,77,B,110152.0,missing
+,358585,A,0,0.0,A,0.0,missing,358585.0,missing
+,SOTON/O2 3101272,6,0,6.0,missing,0.0,missing,3101272.0,SOTON/O2
+,2663,3,1,3.0,missing,0.0,missing,2663.0,missing
+B96 B98,113760,2,1,2.0,missing,96,B,113760.0,missing
+,347074,4,0,4.0,missing,0.0,missing,347074.0,missing
+D11,13502,1,1,1.0,missing,11,D,13502.0,missing
+,112379,2,0,2.0,missing,0.0,missing,112379.0,missing
+,364850,A,0,0.0,A,0.0,missing,364850.0,missing
+,371110,2,0,2.0,missing,0.0,missing,371110.0,missing
+,8471,4,0,4.0,missing,0.0,missing,8471.0,missing
+,345781,5,0,5.0,missing,0.0,missing,345781.0,missing
+,350047,A,0,0.0,A,0.0,missing,350047.0,missing
+E77,S.O./P.P. 3,4,0,4.0,missing,77,E,3.0,S.O./P.P.
+,2674,6,0,6.0,missing,0.0,missing,2674.0,missing
+,29105,2,1,2.0,missing,0.0,missing,29105.0,missing
+,347078,4,0,4.0,missing,0.0,missing,347078.0,missing
+F38,383121,1,0,1.0,missing,38,F,383121.0,missing
+,364516,3,1,3.0,missing,0.0,missing,364516.0,missing
+,36865,4,0,4.0,missing,0.0,missing,36865.0,missing
+B3,24160,A,1,0.0,A,3,B,24160.0,missing
+,2687,4,1,4.0,missing,0.0,missing,2687.0,missing
+B20,17474,1,1,1.0,missing,20,B,17474.0,missing
+D6,113501,1,0,1.0,missing,6,D,113501.0,missing
+,W./C. 6607,4,0,4.0,missing,0.0,missing,6607.0,W./C.
+,SOTON/O.Q. 3101312,1,0,1.0,missing,0.0,missing,3101312.0,SOTON/O.Q.
+,374887,1,0,1.0,missing,0.0,missing,374887.0,missing
+,3101265,5,1,5.0,missing,0.0,missing,3101265.0,missing
+,382652,2,0,2.0,missing,0.0,missing,382652.0,missing
+,C.A. 2315,5,1,5.0,missing,0.0,missing,2315.0,C.A.
+B82 B84,PC 17593,5,0,5.0,missing,82,B,17593.0,PC
+,12460,A,0,0.0,A,0.0,missing,12460.0,missing
+,239865,4,0,4.0,missing,0.0,missing,239865.0,missing
+,CA. 2343,5,0,5.0,missing,0.0,missing,2343.0,CA.
+,PC 17600,2,0,2.0,missing,0.0,missing,17600.0,PC
+,349203,5,0,5.0,missing,0.0,missing,349203.0,missing
+,28213,6,0,6.0,missing,0.0,missing,28213.0,missing
+D17,17465,4,1,4.0,missing,17,D,17465.0,missing
+,349244,3,1,3.0,missing,0.0,missing,349244.0,missing
+,2685,5,0,5.0,missing,0.0,missing,2685.0,missing
+,345773,3,0,3.0,missing,0.0,missing,345773.0,missing
+,250647,6,0,6.0,missing,0.0,missing,250647.0,missing
+,C.A. 31921,1,1,1.0,missing,0.0,missing,31921.0,C.A.
+B96 B98,113760,6,1,6.0,missing,96,B,113760.0,missing
+,2625,4,1,4.0,missing,0.0,missing,2625.0,missing
+,347089,2,1,2.0,missing,0.0,missing,347089.0,missing
+,347063,1,0,1.0,missing,0.0,missing,347063.0,missing
+A36,112050,1,0,1.0,missing,36,A,112050.0,missing
+,347087,A,0,0.0,A,0.0,missing,347087.0,missing
+,248723,6,0,6.0,missing,0.0,missing,248723.0,missing
+E8,113806,5,1,5.0,missing,8,E,113806.0,missing
+,3474,5,0,5.0,missing,0.0,missing,3474.0,missing
+,A/4 48871,A,0,0.0,A,0.0,missing,48871.0,A/4
+,28206,1,0,1.0,missing,0.0,missing,28206.0,missing
+,347082,A,0,0.0,A,0.0,missing,347082.0,missing
+,364499,5,0,5.0,missing,0.0,missing,364499.0,missing
+B102,112058,4,0,4.0,missing,102,B,112058.0,missing
+,STON/O2. 3101290,3,0,3.0,missing,0.0,missing,3101290.0,STON/O2.
+,S.C./PARIS 2079,6,0,6.0,missing,0.0,missing,2079.0,S.C./PARIS
+,C 7075,1,0,1.0,missing,0.0,missing,7075.0,C
+,347088,A,0,0.0,A,0.0,missing,347088.0,missing
+B69,12749,6,1,6.0,missing,69,B,12749.0,missing
+,315098,2,1,2.0,missing,0.0,missing,315098.0,missing
+,19972,3,0,3.0,missing,0.0,missing,19972.0,missing
+E121,392096,4,1,4.0,missing,121,E,392096.0,missing
+,3101295,2,0,2.0,missing,0.0,missing,3101295.0,missing
+,368323,2,0,2.0,missing,0.0,missing,368323.0,missing
+,1601,6,0,6.0,missing,0.0,missing,1601.0,missing
+,S.C./PARIS 2079,5,1,5.0,missing,0.0,missing,2079.0,S.C./PARIS
+,367228,3,1,3.0,missing,0.0,missing,367228.0,missing
+B28,113572,5,1,5.0,missing,28,B,113572.0,missing
+,2659,A,1,0.0,A,0.0,missing,2659.0,missing
+,29106,2,1,2.0,missing,0.0,missing,29106.0,missing
+,2671,2,0,2.0,missing,0.0,missing,2671.0,missing
+,347468,1,0,1.0,missing,0.0,missing,347468.0,missing
+,2223,6,0,6.0,missing,0.0,missing,2223.0,missing
+E49,PC 17756,6,1,6.0,missing,49,E,17756.0,PC
+,315097,1,0,1.0,missing,0.0,missing,315097.0,missing
+,392092,3,0,3.0,missing,0.0,missing,392092.0,missing
+,1601,1,1,1.0,missing,0.0,missing,1601.0,missing
+C47,11774,1,1,1.0,missing,47,C,11774.0,missing
+,SOTON/O2 3101287,3,0,3.0,missing,0.0,missing,3101287.0,SOTON/O2
+,S.O./P.P. 3,3,0,3.0,missing,0.0,missing,3.0,S.O./P.P.
+,113798,1,1,1.0,missing,0.0,missing,113798.0,missing
+,2683,5,0,5.0,missing,0.0,missing,2683.0,missing
+,315090,4,0,4.0,missing,0.0,missing,315090.0,missing
+,C.A. 5547,2,0,2.0,missing,0.0,missing,5547.0,C.A.
+,CA. 2343,3,0,3.0,missing,0.0,missing,2343.0,CA.
+,349213,2,0,2.0,missing,0.0,missing,349213.0,missing
+,248727,6,0,6.0,missing,0.0,missing,248727.0,missing
+C92,17453,A,1,0.0,A,92,C,17453.0,missing
+,347082,3,0,3.0,missing,0.0,missing,347082.0,missing
+,347060,6,0,6.0,missing,0.0,missing,347060.0,missing
+,2678,3,0,3.0,missing,0.0,missing,2678.0,missing
+D28,PC 17592,1,1,1.0,missing,28,D,17592.0,PC
+,244252,2,0,2.0,missing,0.0,missing,244252.0,missing
+,392091,2,1,2.0,missing,0.0,missing,392091.0,missing
+,36928,6,1,6.0,missing,0.0,missing,36928.0,missing
+E17,113055,A,1,0.0,A,17,E,113055.0,missing
+,2666,6,1,6.0,missing,0.0,missing,2666.0,missing
+,2629,2,0,2.0,missing,0.0,missing,2629.0,missing
+,350026,5,0,5.0,missing,0.0,missing,350026.0,missing
+,28134,2,0,2.0,missing,0.0,missing,28134.0,missing
+D17,17466,4,1,4.0,missing,17,D,17466.0,missing
+,CA. 2343,3,0,3.0,missing,0.0,missing,2343.0,CA.
+,233866,4,0,4.0,missing,0.0,missing,233866.0,missing
+,236852,5,1,5.0,missing,0.0,missing,236852.0,missing
+,SC/PARIS 2149,2,1,2.0,missing,0.0,missing,2149.0,SC/PARIS
+A24,PC 17590,A,0,0.0,A,24,A,17590.0,PC
+,345777,A,0,0.0,A,0.0,missing,345777.0,missing
+,347742,4,1,4.0,missing,0.0,missing,347742.0,missing
+,349248,4,0,4.0,missing,0.0,missing,349248.0,missing
+D35,11751,1,1,1.0,missing,35,D,11751.0,missing
+B51 B53 B55,695,6,0,6.0,missing,51,B,695.0,missing
+,345765,6,0,6.0,missing,0.0,missing,345765.0,missing
+,P/PP 3381,4,1,4.0,missing,0.0,missing,3381.0,P/PP
+,2667,A,1,0.0,A,0.0,missing,2667.0,missing
+,7534,A,0,0.0,A,0.0,missing,7534.0,missing
+,349212,5,0,5.0,missing,0.0,missing,349212.0,missing
+,349217,6,0,6.0,missing,0.0,missing,349217.0,missing
+C50,11767,A,1,0.0,A,50,C,11767.0,missing
+,230433,4,1,4.0,missing,0.0,missing,230433.0,missing
+,349257,A,0,0.0,A,0.0,missing,349257.0,missing
+,7552,5,0,5.0,missing,0.0,missing,7552.0,missing
+,C.A./SOTON 34068,1,0,1.0,missing,0.0,missing,34068.0,C.A./SOTON
+,SOTON/OQ 392076,5,0,5.0,missing,0.0,missing,392076.0,SOTON/OQ
+,382652,5,0,5.0,missing,0.0,missing,382652.0,missing
+,211536,3,0,3.0,missing,0.0,missing,211536.0,missing
+B42,112053,3,1,3.0,missing,42,B,112053.0,missing
+,W./C. 6607,1,0,1.0,missing,0.0,missing,6607.0,W./C.
+C148,111369,2,1,2.0,missing,148,C,111369.0,missing
+,370376,3,0,3.0,missing,0.0,missing,370376.0,missing
